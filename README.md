@@ -4,7 +4,7 @@ Health statistics for the **WHO European Region** — 2,657 indicators across 22
 datasets and 53 countries, many with series running back to the 1970s. Sourced
 from the WHO Regional Office for Europe Data Warehouse API v5.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1576+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1678+ live data sources.
 
 ## Tools
 
@@ -115,7 +115,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1576+ data sources. The
+Both URLs reach the same gateway and the same 1678+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
