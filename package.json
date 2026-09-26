@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-who-euro",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "WHO Regional Office for Europe — Data Warehouse API v5.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-cb4b6f0851374e51da8f35386be173c1810eecc2177e0b82c363284c78caf584",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-b7f153d622ac7a19543b0419baefb594dd665ddac684c0d5dea574a13a121003",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
